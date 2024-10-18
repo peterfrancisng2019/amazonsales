@@ -2,7 +2,8 @@
 ---
 ## About Dataset
 This dataset has the data of 1K+ Amazon Product Ratings and Reviews as per their details listed on the official website of Amazon
-[amazon.csv](https://drive.google.com/file/d/1_g5i_XpSEBHBRBMTH-q94olONlj7DaFD/view?usp=sharing)
+
+[Download  amazon.csv here](https://drive.google.com/file/d/1_g5i_XpSEBHBRBMTH-q94olONlj7DaFD/view?usp=sharing)
 ### Features
 + product_id - Product ID
 + product_name - Name of the Product

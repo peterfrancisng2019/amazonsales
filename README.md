@@ -33,3 +33,5 @@ This dataset has the data of 1K+ Amazon Product Ratings and Reviews as per their
 * Making Recommendation System
 
 This is a list of some of the things that you can do on this dataset. It's not definitely limited to the one mentioned there; a lot more can also be done.
+
+![sample visual](https://github.com/peterfrancisng2019/amazonsales/blob/f0f6bf5d2260108c773ceffe27cec01b05f582dd/pexels-rdne-7948055.jpg)
